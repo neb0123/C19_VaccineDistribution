@@ -26,4 +26,11 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
   - Mortality of Infected per Region
   - Morbidity
   - Population Density
-  - Population Mortality.
+  - Population Mortality
+  
+- [ ] Test various clustering methods and metrics
+- [ ] Plot clusters in the 6 2D planes
+
+**4.** Test out distribution algorithms
+
+**5.** Test out Integer Programming for location/cost assignment
