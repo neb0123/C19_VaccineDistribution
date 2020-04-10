@@ -31,6 +31,6 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [ ] Test various clustering methods and metrics
 - [ ] Plot clusters in the 6 2D planes
 
-**4.** Test out distribution algorithms
+**4.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
 
 **5.** Test out Integer Programming for location/cost assignment
