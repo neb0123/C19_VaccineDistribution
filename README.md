@@ -19,7 +19,7 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [ ] Merge data 
 - [ ] Create UK visual
 
-**3.** Cluster regions based on regional metrics
+**3.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
 
 - [ ] Create regional metrics:
 
