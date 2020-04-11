@@ -9,7 +9,7 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [x] Deaths per region
 [https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/]
 - [x] Population Densities
-[https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density]
+[https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density, https://en.wikipedia.org/wiki/Regions_of_England]
 - [ ] Vaccine distribution centre locations
 - [ ] Vaccine amount available & timings
 
