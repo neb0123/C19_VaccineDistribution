@@ -21,7 +21,11 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 **3.** Create notebook:
 
 - [x] Import data
-- [ ] Merge data 
+- [ ] Merge data:
+      - [x] Infected
+      - [x] Deaths
+      - [x] Population Density
+      - [ ] Population
 - [x] Create UK visual
 - [x] Get hospital regions
 
@@ -39,10 +43,10 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 - [ ] Create regional metrics:
 
-  - Mortality of Infected per Region
-  - Morbidity
-  - Population Density
-  - Population Mortality
+  - [x] Mortality of Infected per Region
+  - [ ] Morbidity
+  - [x] Population Morbidity
+  - [x] Population Mortality
   
 - [ ] Test various clustering methods and metrics
 - [ ] Plot clusters in the 6 2D planes
