@@ -31,6 +31,10 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 *Idea*: Create the Voronoi diagram with hospitals as seeds. Then spread number of deaths out evenly in this space.
 
+- [ ] Create Voronoi diagram
+- [ ] Uniformly/randomly distribute deaths in each region
+- [ ] Create coloured density plot
+
 **5.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
 
 - [ ] Create regional metrics:
