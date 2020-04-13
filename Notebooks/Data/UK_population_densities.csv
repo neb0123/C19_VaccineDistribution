@@ -1,0 +1,315 @@
+District,Density (per km²),Type of district,Ceremonial county
+Islington,16097,London borough,Greater London
+Tower Hamlets,16057,London borough,Greater London
+Hackney,14681,London borough,Greater London
+Kensington and Chelsea,12884,"London borough, Royal Borough",Greater London
+Lambeth,12157,London borough,Greater London
+Camden,12035,London borough,Greater London
+Westminster,11883,"London borough, City (1540)",Greater London
+Hammersmith and Fulham,11308,London borough,Greater London
+Southwark,10992,London borough,Greater London
+Newham,9723,London borough,Greater London
+Wandsworth,9528,London borough,Greater London
+Haringey,9143,London borough,Greater London
+Lewisham,8636,London borough,Greater London
+Brent,7652,London borough,Greater London
+Waltham Forest,7130,London borough,Greater London
+Ealing,6157,London borough,Greater London
+Greenwich,6046,"London borough, Royal Borough",Greater London
+Barking and Dagenham,5871,London borough,Greater London
+Merton,5480,London borough,Greater London
+Redbridge,5386,London borough,Greater London
+Portsmouth,5326,"Unitary authority, City (1926)",Hampshire
+Southampton,5065,"Unitary authority, City (1964)",Hampshire
+Harrow,4957,London borough,Greater London
+Luton,4939,"Unitary authority, Borough",Bedfordshire
+Leicester,4843,"Unitary authority, City (1919)",Leicestershire
+Hounslow,4837,London borough,Greater London
+Manchester,4735,"Metropolitan borough, City (1853)",Greater Manchester
+Kingston upon Thames,4709,"London borough, Royal Borough",Greater London
+Sutton,4665,London borough,Greater London
+Slough,4582,"Unitary authority, Borough",Berkshire
+Barnet,4520,London borough,Greater London
+Watford,4515,Borough,Hertfordshire
+Croydon,4455,London borough,Greater London
+Nottingham,4437,"Unitary authority, City (1897)",Nottinghamshire
+Liverpool,4424,"Metropolitan borough, City (1880)",Merseyside
+Southend-on-Sea,4370,"Unitary authority, Borough",Essex
+Birmingham,4262,"Metropolitan borough, City (1889)",West Midlands
+Bristol,4224,"Unitary authority, City (1542)",Bristol
+Enfield,4130,London borough,Greater London
+Bexley,4082,London borough,Greater London
+Reading,4040,"Unitary authority, Borough",Berkshire
+Blackpool,3997,"Unitary authority, Borough",Lancashire
+Sandwell,3826,Metropolitan borough,West Midlands
+Wolverhampton,3773,"Metropolitan borough, City (2000)",West Midlands
+Coventry,3718,"Metropolitan borough, City (1102)",West Midlands
+Hull,3648,"Unitary authority, City (1897)",East Riding of Yorkshire
+Norwich,3617,City (TI),Norfolk
+Brighton & Hove,3508,"Unitary authority, City (2000)",East Sussex
+Ipswich,3480,Borough,Suffolk
+Richmond upon Thames,3430,London borough,Greater London
+Oxford,3384,City (1542),Oxfordshire
+Worthing,3383,Borough,West Sussex
+Stevenage,3379,Borough,Hertfordshire
+Gosport,3363,Borough,Hampshire
+Derby,3296,"Unitary authority, City (1977)",Derbyshire
+Plymouth,3296,"Unitary authority, City (1928)",Devon
+Dudley,3273,Metropolitan borough,West Midlands
+Gloucester,3188,City (1541),Gloucestershire
+Hastings,3124,Borough,East Sussex
+Cambridge,3090,City (1951),Cambridgeshire
+Worcester,3062,City (TI),Worcestershire
+City of London,2998,"City (TI), sui generis",City of London
+Harlow,2836,,Essex
+Northampton,2787,Borough,Northamptonshire
+Lincoln,2775,City (TI),Lincolnshire
+Exeter,2773,City (TI),Devon
+Stoke-on-Trent,2738,"Unitary authority, City (1925)",Staffordshire
+Walsall,2725,Metropolitan borough,West Midlands
+Newcastle upon Tyne,2646,"Metropolitan borough, City (1882)",Tyne and Wear
+Hillingdon,2635,London borough,Greater London
+Salford,2617,"Metropolitan borough, City (1926)",Greater Manchester
+Middlesbrough,2608,"Unitary authority, Borough",North Yorkshire
+Cheltenham,2513,Borough,Gloucestershire
+North Tyneside,2502,Metropolitan borough,Tyne and Wear
+Crawley,2500,Borough,West Sussex
+Tamworth,2485,Borough,Staffordshire
+"Bournemouth, Christchurch and Poole",2453,Unitary authority,Dorset
+Rushmoor,2437,Borough,Hampshire
+Oadby and Wigston,2425,Borough,Leicestershire
+Epsom and Ewell,2345,Borough,Surrey
+Eastbourne,2336,Borough,East Sussex
+South Tyneside,2334,Metropolitan borough,Tyne and Wear
+Stockport,2315,Metropolitan borough,Greater Manchester
+Havering,2295,London borough,Greater London
+Havant,2272,Borough,Hampshire
+Trafford,2229,Metropolitan borough,Greater Manchester
+Spelthorne,2213,Borough,Surrey
+Bromley,2205,London borough,Greater London
+Tameside,2183,Metropolitan borough,Greater Manchester
+Torbay,2159,"Unitary authority, Borough",Devon
+Wirral,2058,Metropolitan borough,Merseyside
+Bolton,2041,Metropolitan borough,Greater Manchester
+Sunderland,2018,"Metropolitan borough, City (1992)",Tyne and Wear
+Castle Point,1998,Borough,Essex
+Bury,1911,Metropolitan borough,Greater Manchester
+Broxbourne,1883,Borough,Hertfordshire
+Sefton,1777,Metropolitan borough,Merseyside
+Wigan,1733,Metropolitan borough,Greater Manchester
+Knowsley,1729,Metropolitan borough,Merseyside
+Basildon,1689,,Essex
+Oldham,1655,Metropolitan borough,Greater Manchester
+Eastleigh,1653,Borough,Hampshire
+Nuneaton and Bedworth,1633,Borough,Warwickshire
+Halton,1624,"Unitary authority, Borough",Cheshire
+Woking,1591,Borough,Surrey
+Chesterfield,1584,Borough,Derbyshire
+Sheffield,1583,"Metropolitan borough, City (1893)",South Yorkshire
+Fareham,1567,Borough,Hampshire
+Redditch,1567,Borough,Worcestershire
+Adur,1523,,West Sussex
+Dartford,1508,Borough,Kent
+Bradford,1466,"Metropolitan borough, City (1897)",West Yorkshire
+Elmbridge,1437,Borough,Surrey
+Medway,1436,"Unitary authority, Borough",Kent
+Leeds,1430,"Metropolitan borough, City (1893)",West Yorkshire
+Gateshead,1423,Metropolitan borough,Tyne and Wear
+Mansfield,1419,,Nottinghamshire
+Broxtowe,1414,Borough,Nottinghamshire
+Rochdale,1391,Metropolitan borough,Greater Manchester
+Thanet,1372,,Kent
+St Helens,1320,Metropolitan borough,Merseyside
+Cannock Chase,1269,,Staffordshire
+Solihull,1205,Metropolitan borough,West Midlands
+Ashfield,1161,,Nottinghamshire
+Warrington,1160,"Unitary authority, Borough",Cheshire
+Reigate and Banstead,1144,Borough,Surrey
+Runnymede,1128,Borough,Surrey
+Bracknell Forest,1112,"Unitary authority, Borough",Berkshire
+Hyndburn,1107,Borough,Lancashire
+Blackburn with Darwen,1087,"Unitary authority, Borough",Lancashire
+Gravesham,1074,Borough,Kent
+Kirklees,1074,Metropolitan borough,West Yorkshire
+Thurrock,1055,"Unitary authority, Borough",Essex
+Erewash,1053,Borough,Derbyshire
+Three Rivers,1048,,Hertfordshire
+Hertsmere,1030,Borough,Hertfordshire
+Wakefield,1019,"Metropolitan borough, City (1888)",West Yorkshire
+Preston,997,City (2002),Lancashire
+Hartlepool,997,"Unitary authority, Borough",Durham
+Gedling,982,Borough,Nottinghamshire
+South Ribble,979,Borough,Lancashire
+Swindon,965,"Unitary authority, Borough",Wiltshire
+Stockton-on-Tees,962,"Unitary authority, Borough",Durham and North Yorkshire
+Welwyn Hatfield,948,,Hertfordshire
+Wokingham,939,Unitary authority,Berkshire
+Surrey Heath,935,Borough,Surrey
+Rotherham,924,Metropolitan borough,South Yorkshire
+St Albans,914,City (1877),Hertfordshire
+Corby,882,Borough,Northamptonshire
+Milton Keynes,870,"Unitary authority, Borough",Buckinghamshire
+Barrow-in-Furness,861,Borough,Cumbria
+North East Lincolnshire,833,"Unitary authority, Borough",Lincolnshire
+Burnley,800,Borough,Lancashire
+York,772,"Unitary authority, City (TI)",North Yorkshire
+Blaby,770,,Leicestershire
+Windsor and Maidenhead,768,"Unitary authority, Royal Borough",Berkshire
+Barnsley,745,Metropolitan borough,South Yorkshire
+Dacorum,726,Borough,Hertfordshire
+Arun,723,,West Sussex
+Charnwood,655,Borough,Leicestershire
+Newcastle-under-Lyme,614,Borough,Staffordshire
+Telford and Wrekin,612,"Unitary authority, Borough",Shropshire
+Peterborough,585,"Unitary authority, City (1541)",Cambridgeshire
+Colchester,585,Borough,Essex
+Calderdale,577,Metropolitan borough,West Yorkshire
+Chorley,576,Borough,Lancashire
+North Somerset,572,Unitary authority,Somerset
+Great Yarmouth,570,Borough,Norfolk
+South Gloucestershire,569,Unitary authority,Gloucestershire
+Redcar and Cleveland,558,"Unitary authority, Borough",North Yorkshire
+Bath and North East Somerset,555,Unitary authority,Somerset
+Doncaster,547,Metropolitan borough,South Yorkshire
+Guildford,546,Borough,Surrey
+Tonbridge and Malling,543,Borough,Kent
+Pendle,540,Borough,Lancashire
+Darlington,540,"Unitary authority, Borough",Durham
+Canterbury,533,City (TI),Kent
+Chelmsford,523,City (2012),Essex
+Wyre Forest,517,,Worcestershire
+Rossendale,514,Borough,Lancashire
+Rochford,513,,Essex
+Warwick,504,,Warwickshire
+Brentwood,500,Borough,Essex
+Bolsover,496,,Derbyshire
+Wellingborough,487,Borough,Northamptonshire
+Fylde,481,Borough,Lancashire
+Amber Valley,477,Borough,Derbyshire
+Bromsgrove,455,,Worcestershire
+Mid Sussex,448,,West Sussex
+Hart,447,,Hampshire
+Kettering,434,Borough,Northamptonshire
+Maidstone,432,Borough,Kent
+Tendring,432,,Essex
+Buckinghamshire,432,Unitary authority,Buckinghamshire
+Swale,397,Borough,Kent
+Central Bedfordshire,396,Unitary authority,Bedfordshire
+Wyre,394,Borough,Lancashire
+Epping Forest,387,,Essex
+Hinckley and Bosworth,378,Borough,Leicestershire
+Isle of Wight,372,"Unitary authority, County",Isle of Wight
+Cheshire West and Chester,371,Unitary authority,Cheshire
+Dover,371,,Kent
+North East Derbyshire,367,,Derbyshire
+North West Leicestershire,366,,Leicestershire
+Waverley,364,Borough,Surrey
+Bedford,360,"Unitary authority, Borough",Bedfordshire
+Tunbridge Wells,356,Borough,Kent
+North Hertfordshire,355,,Hertfordshire
+Tandridge,353,,Surrey
+Lewes,352,,East Sussex
+Mole Valley,338,,Surrey
+West Lancashire,329,,Lancashire
+Cheshire East,326,Unitary authority,Cheshire
+Sevenoaks,326,,Kent
+Folkestone and Hythe,316,,Kent
+Lichfield,314,,Staffordshire
+East Hertfordshire,311,,Hertfordshire
+South Derbyshire,309,,Derbyshire
+East Staffordshire,306,Borough,Staffordshire
+Rugby,305,Borough,Warwickshire
+Rushcliffe,288,Borough,Nottinghamshire
+Basingstoke and Deane,277,Borough,Hampshire
+South Staffordshire,275,,Staffordshire
+Horsham,268,,West Sussex
+Stroud,258,,Gloucestershire
+Cherwell,253,,Oxfordshire
+Lancaster,250,City (1937),Lancashire
+Braintree,248,,Essex
+New Forest,239,,Hampshire
+County Durham,237,Unitary authority,County Durham
+East Hampshire,235,,Hampshire
+Broadland,234,,Norfolk
+Vale of White Horse,232,,Oxfordshire
+North Warwickshire,228,Borough,Warwickshire
+Stafford,227,,Staffordshire
+West Berkshire,225,Unitary authority,Berkshire
+Tewkesbury,223,Borough,Gloucestershire
+Ashford,223,Borough,Kent
+Sedgemoor,218,,Somerset
+South Oxfordshire,207,,Oxfordshire
+North Lincolnshire,203,"Unitary authority, Borough",Lincolnshire
+Test Valley,199,Borough,Hampshire
+Teignbridge,197,,Devon
+East Suffolk,197,,Suffolk
+Huntingdonshire,196,,Cambridgeshire
+Wealden,192,,East Sussex
+Wychavon,192,,Worcestershire
+Boston,190,Borough,Lincolnshire
+Winchester,188,City (TI),Hampshire
+Rother,188,,East Sussex
+Newark and Sherwood,187,,Nottinghamshire
+Fenland,186,,Cambridgeshire
+East Northamptonshire,184,,Northamptonshire
+Bassetlaw,183,,Nottinghamshire
+Maldon,180,,Essex
+East Devon,177,,Devon
+South Somerset,175,,Somerset
+South Cambridgeshire,175,,Cambridgeshire
+West Suffolk,173,Borough,Suffolk
+High Peak,171,Borough,Derbyshire
+Staffordshire Moorlands,171,,Staffordshire
+Forest of Dean,164,,Gloucestershire
+Cornwall,160,Unitary authority,Cornwall
+Harborough,156,,Leicestershire
+Mendip,155,,Somerset
+Babergh,154,,Suffolk
+West Oxfordshire,154,,Oxfordshire
+Chichester,154,,West Sussex
+Wiltshire,153,Unitary authority,Wiltshire
+South Norfolk,152,,Norfolk
+South Kesteven,150,,Lincolnshire
+Selby,149,,North Yorkshire
+South Northamptonshire,146,,Northamptonshire
+Dorset,142,Unitary authority,Dorset
+East Riding of Yorkshire,141,Unitary authority,East Riding of Yorkshire
+Uttlesford,139,,Essex
+Isles of Scilly,137,sui generis,Cornwall
+East Cambridgeshire,137,,Cambridgeshire
+Malvern Hills,135,,Worcestershire
+Scarborough,133,Borough,North Yorkshire
+Stratford-on-Avon,130,,Warwickshire
+Somerset West and Taunton,130,Borough,Somerset
+Daventry,128,,Northamptonshire
+North Kesteven,126,,Lincolnshire
+South Holland,125,,Lincolnshire
+Harrogate,123,,North Yorkshire
+Mid Suffolk,118,,Suffolk
+North Norfolk,109,,Norfolk
+Breckland,107,,Norfolk
+Melton,106,Borough,Leicestershire
+King's Lynn and West Norfolk,106,Borough,Norfolk
+Carlisle,104,City (1133),Cumbria
+Rutland,104,Unitary authority,Rutland
+Ribble Valley,103,Borough,Lancashire
+Shropshire,100,Unitary authority,Shropshire
+South Hams,97,,Devon
+Copeland,94,Borough,Cumbria
+Derbyshire Dales,91,,Derbyshire
+Mid Devon,89,,Devon
+North Devon,88,,Devon
+Herefordshire,88,Unitary authority,Herefordshire
+West Lindsey,82,,Lincolnshire
+East Lindsey,80,,Lincolnshire
+Allerdale,79,Borough,Cumbria
+Cotswold,76,,Gloucestershire
+Hambleton,70,,North Yorkshire
+Torridge,69,,Devon
+South Lakeland,68,,Cumbria
+Northumberland,64,Unitary authority,Northumberland
+Craven,48,,North Yorkshire
+West Devon,48,Borough,Devon
+Richmondshire,40,,North Yorkshire
+Ryedale,36,,North Yorkshire
+Eden,25,,Cumbria
