@@ -13,19 +13,24 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [ ] Vaccine distribution centre locations
 - [ ] Vaccine amount available & timings
 
-**1.5** Data improvements:
+**2.** Data improvements:
 
 - [ ] Go through polygons and make sure they are disjoint
 - [ ] Go through hospitals and check coordinates and within correct polygon
 
-**2.** Create notebook:
+**3.** Create notebook:
 
 - [x] Import data
 - [ ] Merge data 
 - [x] Create UK visual
 - [x] Get hospital regions
 
-**3.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
+**4.** Voronoi death density diagram:
+
+Assumption: People die in the hospital closest to their house.
+Idea: Create the Voronoi diagram with hospitals as seeds. Then spread number of deaths out evenly in this space.
+
+**5.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
 
 - [ ] Create regional metrics:
 
@@ -37,6 +42,6 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [ ] Test various clustering methods and metrics
 - [ ] Plot clusters in the 6 2D planes
 
-**4.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
+**6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
 
-**5.** Test out Integer Programming for location/cost assignment [Paper1](/Papers/efficient_Vaccine_Distribution_Planning_using_IoT_TACTiCS_2015.pdf) [Paper2](2015MCM_paper.pdf)
+**7.** Test out Integer Programming for location/cost assignment [Paper1](/Papers/efficient_Vaccine_Distribution_Planning_using_IoT_TACTiCS_2015.pdf) [Paper2](2015MCM_paper.pdf)
