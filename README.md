@@ -13,12 +13,17 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [ ] Vaccine distribution centre locations
 - [ ] Vaccine amount available & timings
 
+**1.5** Data improvements:
+
+- [ ] Go through polygons and make sure they are disjoint
+- [ ] Go through hospitals and check coordinates and within correct polygon
+
 **2.** Create notebook:
 
 - [x] Import data
 - [ ] Merge data 
 - [x] Create UK visual
-- [ ] Get hospital regions
+- [x] Get hospital regions
 
 **3.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
 
