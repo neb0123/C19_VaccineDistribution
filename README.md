@@ -23,10 +23,10 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [x] Import data
 - [ ] Merge data:
 
-      - [x] Infected
-      - [x] Deaths
-      - [x] Population Density
-      - [ ] Population
+     - [x] Infected
+     - [x] Deaths
+     - [x] Population Density
+     - [ ] Population
       
 - [x] Create UK visual
 - [x] Get hospital regions
