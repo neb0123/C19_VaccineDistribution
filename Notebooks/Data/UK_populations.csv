@@ -1,0 +1,315 @@
+Rank,District,Population,Type,Ceremonial county,English Region
+1,Birmingham,1141374,"Metropolitan borough, City 1889",West Midlands,West Midlands
+2,Leeds,789194,"Metropolitan borough, City 1893",West Yorkshire,Yorkshire and the Humber
+3,Sheffield,582506,"Metropolitan borough, City 1893",South Yorkshire,Yorkshire and the Humber
+4,Cornwall,565968,Unitary authority,Cornwall,South West
+5,Manchester,547627,"Metropolitan borough, City 1853",Greater Manchester,North West
+6,Bradford,537173,"Metropolitan borough, City 1897",West Yorkshire,Yorkshire and the Humber
+7,Durham,526980,Unitary authority,County Durham,North East
+8,Wiltshire,498064,Unitary authority,Wiltshire,South West
+9,Liverpool,494814,"Metropolitan borough, City 1880",Merseyside,North West
+10,Bristol,463405,"Unitary authority, City 1542",Bristol,South West
+11,Kirklees,438727,Metropolitan borough,West Yorkshire,Yorkshire and the Humber
+12,"Bournemouth, Christchurch and Poole",395784,Unitary authority,Dorset,South West
+13,Barnet,392140,London borough,Greater London,London
+14,Croydon,385346,London borough,Greater London,London
+15,Cheshire East,380790,Unitary authority,Cheshire,North West
+16,Dorset,376484,Unitary authority,Dorset,South West
+17,Coventry,366785,"Metropolitan borough, City 1345",West Midlands,West Midlands
+18,Leicester,355218,"Unitary authority, City 1919",Leicestershire,East Midlands
+19,Newham,352005,London borough,Greater London,London
+20,Wakefield,345038,"Metropolitan borough, City 1888",West Yorkshire,Yorkshire and the Humber
+21,Ealing,341982,London borough,Greater London,London
+22,Cheshire West and Chester,340502,Unitary authority,Cheshire,North West
+23,East Riding of Yorkshire,339614,Unitary authority,East Riding of Yorkshire,Yorkshire and the Humber
+24,Enfield,333869,London borough,Greater London,London
+25,Bromley,331096,London borough,Greater London,London
+26,Nottingham,331069,"Unitary authority, City 1897",Nottinghamshire,East Midlands
+27,Brent,330795,London borough,Greater London,London
+28,Sandwell,327378,Metropolitan borough,West Midlands,West Midlands
+29,Wandsworth,326474,London borough,Greater London,London
+30,Wigan,326088,Metropolitan borough,Greater Manchester,North West
+31,Lambeth,325917,London borough,Greater London,London
+32,Wirral,323235,Metropolitan borough,Merseyside,North West
+33,Dudley,320626,Metropolitan borough,West Midlands,West Midlands
+34,Northumberland,320274,Unitary authority,Northumberland,North East
+35,Shropshire,320274,Unitary authority,Shropshire,West Midlands
+36,Tower Hamlets,317705,London borough,Greater London,London
+37,Southwark,317256,London borough,Greater London,London
+38,Doncaster,310542,Metropolitan borough,South Yorkshire,Yorkshire and the Humber
+39,Hillingdon,304824,London borough,Greater London,London
+40,Redbridge,303858,London borough,Greater London,London
+41,Lewisham,303536,London borough,Greater London,London
+42,Newcastle upon Tyne,300196,"Metropolitan borough, City 1882",Tyne and Wear,North East
+43,Stockport,291775,Metropolitan borough,Greater Manchester,North West
+44,Brighton & Hove,290395,"Unitary authority, City 2000",East Sussex,South East
+45,Greenwich,286186,"London borough, Royal Borough",Greater London,London
+46,Bolton,285372,Metropolitan borough,Greater Manchester,North West
+47,Central Bedfordshire,283606,Unitary authority,Bedfordshire,East of England
+48,Walsall,283378,Metropolitan borough,West Midlands,West Midlands
+49,South Gloucestershire,282644,Unitary authority,Gloucestershire,South West
+50,Hackney,279665,London borough,Greater London,London
+51,Medway,277855,Unitary authority,Kent,South East
+52,Sunderland,277417,"Metropolitan borough, City 1992",Tyne and Wear,North East
+53,Waltham Forest,276700,London borough,Greater London,London
+54,Sefton,275396,Metropolitan borough,Merseyside,North West
+55,Hounslow,270782,London borough,Greater London,London
+56,Haringey,270624,London borough,Greater London,London
+57,Milton Keynes,268607,"Unitary authority, Borough",Buckinghamshire,South East
+58,Rotherham,264671,Metropolitan borough,South Yorkshire,Yorkshire and the Humber
+59,Plymouth,263100,"Unitary authority, City 1928",Devon,South West
+60,Camden,262226,London borough,Greater London,London
+61,Wolverhampton,262008,"Metropolitan borough, City (2000)",West Midlands,West Midlands
+62,Hull,260645,"Unitary authority, City 1299",East Riding of Yorkshire,Yorkshire and the Humber
+63,Havering,257810,London borough,Greater London,London
+64,Derby,257174,"Unitary authority, City (1977)",Derbyshire,East Midlands
+65,Stoke-on-Trent,255833,"Unitary authority, City (1925)",Staffordshire,West Midlands
+66,Westminster,255324,"London borough, City (1540)",Greater London,London
+67,Salford,254408,"Metropolitan borough, City (1926)",Greater Manchester,North West
+68,Southampton,252796,"Unitary authority, City (1964)",Hampshire,South East
+69,Harrow,250149,London borough,Greater London,London
+70,East Suffolk,248249,,Suffolk,East of England
+71,Bexley,247258,London borough,Greater London,London
+72,Barnsley,245199,Metropolitan borough,South Yorkshire,Yorkshire and the Humber
+73,Islington,239142,London borough,Greater London,London
+74,Trafford,236370,Metropolitan borough,Greater Manchester,North West
+75,Oldham,235623,Metropolitan borough,Greater Manchester,North West
+76,Tameside,225197,Metropolitan borough,Greater Manchester,North West
+77,Northampton,225146,Borough,Northamptonshire,East Midlands
+78,Swindon,221996,"Unitary authority, Borough",Wiltshire,South West
+79,Rochdale,220001,Metropolitan borough,Greater Manchester,North West
+80,Portsmouth,215133,"Unitary authority, City (1926)",Hampshire,South East
+81,Solihull,214909,Metropolitan borough,West Midlands,West Midlands
+82,Luton,214109,"Unitary authority, Borough",Bedfordshire,East of England
+83,North Somerset,213919,Unitary authority,Somerset,South West
+84,Barking and Dagenham,211998,London borough,Greater London,London
+85,Calderdale,210082,Metropolitan borough,West Yorkshire,Yorkshire and the Humber
+86,York,209893,"Unitary authority, City (TI)",North Yorkshire,Yorkshire and the Humber
+87,Warrington,209547,"Unitary authority, Borough",Cheshire,North West
+88,Merton,206186,London borough,Greater London,London
+89,North Tyneside,205985,Metropolitan borough,Tyne and Wear,North East
+90,Sutton,204525,London borough,Greater London,London
+91,Gateshead,202508,Metropolitan borough,Tyne and Wear,North East
+92,Peterborough,201041,"Unitary authority, City (1541)",Cambridgeshire,East of England
+94,Stockton-on-Tees,197213,"Unitary authority, Borough","County Durham and
+North Yorkshire",North East
+95,Richmond upon Thames,196904,London borough,Greater London,London
+96,Colchester,192523,Borough,Essex,East of England
+97,Herefordshire,192107,Unitary authority,Herefordshire,West Midlands
+98,Bath and North East Somerset,192106,Unitary authority,Somerset,South West
+99,Bury,190108,Metropolitan borough,Greater Manchester,North West
+100,Basildon,185862,Borough,Essex,East of England
+101,Hammersmith and Fulham,185426,London borough,Greater London,London
+102,Charnwood,182643,Borough,Leicestershire,East Midlands
+103,Southend-on-Sea,182463,"Unitary authority, Borough",Essex,East of England
+104,St Helens,180049,Metropolitan borough,Merseyside,North West
+105,New Forest,179753,,Hampshire,South East
+106,West Suffolk,178881,,Suffolk,East of England
+107,Telford and Wrekin,177799,"Unitary authority, Borough",Shropshire,West Midlands
+108,Huntingdonshire,177352,,Cambridgeshire,East of England
+109,Chelmsford,177079,City (2012),Essex,East of England
+110,Basingstoke and Deane,175729,Borough,Hampshire,South East
+111,Kingston upon Thames,175470,"London borough, Royal Borough",Greater London,London
+113,Thurrock,172525,"Unitary authority, Borough",Essex,East of England
+114,North Lincolnshire,172005,"Unitary authority, Borough",Lincolnshire,Yorkshire and the Humber
+115,Bedford,171623,"Unitary authority, Borough",Bedfordshire,East of England
+116,Maidstone,169955,Borough,Kent,South East
+117,Wokingham,167979,Unitary authority,Berkshire,South East
+118,South Somerset,167861,,Somerset,South West
+119,Canterbury,164553,City (TI),Kent,South East
+120,Reading,163203,"Unitary authority, Borough",Berkshire,South East
+121,Harrogate,160533,Borough,North Yorkshire,Yorkshire and the Humber
+122,Wealden,160175,,East Sussex,South East
+123,Arun,159827,,West Sussex,South East
+124,North East Lincolnshire,159821,"Unitary authority, Borough",Lincolnshire,Yorkshire and the Humber
+125,West Berkshire,158527,Unitary authority,Berkshire,South East
+126,South Cambridgeshire,157519,,Cambridgeshire,East of England
+127,Kensington and Chelsea,156197,"London borough, Royal Borough",Greater London,London
+128,Oxford,154327,City (1542),Oxfordshire,South East
+129,Dacorum,154280,Borough,Hertfordshire,East of England
+130,Somerset West and Taunton,153866,,Somerset,South West
+131,King's Lynn and West Norfolk,151811,Borough,Norfolk,East of England
+132,Braintree,151561,,Essex,East of England
+133,Windsor and Maidenhead,150906,"Unitary authority, Royal Borough",Berkshire,South East
+134,South Tyneside,150265,Metropolitan borough,Tyne and Wear,North East
+135,Mid Sussex,149716,,West Sussex,South East
+136,Knowsley,149571,Metropolitan borough,Merseyside,North West
+137,Cherwell,149161,,Oxfordshire,South East
+138,Slough,149112,"Unitary authority, Borough",Berkshire,South East
+139,Blackburn with Darwen,148942,"Unitary authority, Borough",Lancashire,North West
+140,Swale,148519,Borough,Kent,South East
+141,East Hertfordshire,148105,,Hertfordshire,East of England
+142,Guildford,147889,Borough,Surrey,South East
+143,Reigate and Banstead,147757,Borough,Surrey,South East
+144,St Albans,147373,City (1877),Hertfordshire,East of England
+145,Tendring,145803,,Essex,East of England
+146,East Devon,144317,,Devon,South West
+147,Lancaster,144246,City (1937),Lancashire,North West
+148,Warwick,142484,,Warwickshire,West Midlands
+149,Horsham,142217,,West Sussex,South East
+150,South Kesteven,141853,,Lincolnshire,East Midlands
+151,Thanet,141819,,Kent,South East
+152,Preston,141818,City (2002),Lancashire,North West
+153,Isle of Wight,141538,"Unitary authority, County",Isle of Wight,South East
+154,Norwich,141137,City (1195),Norfolk,East of England
+155,East Lindsey,140741,,Lincolnshire,East Midlands
+156,Middlesbrough,140545,"Unitary authority, Borough",North Yorkshire,North East
+157,South Oxfordshire,140504,,Oxfordshire,South East
+158,Breckland,139329,,Norfolk,East of England
+159,Blackpool,139305,"Unitary authority, Borough",Lancashire,North West
+160,South Norfolk,138017,,Norfolk,East of England
+161,Ipswich,137532,Borough,Suffolk,East of England
+162,Redcar and Cleveland,136718,"Unitary authority, Borough",North Yorkshire,North East
+163,Elmbridge,136626,Borough,Surrey,South East
+164,Stafford,135880,,Staffordshire,West Midlands
+165,Torbay,135780,"Unitary authority, Borough",Devon,South West
+166,Vale of White Horse,133732,,Oxfordshire,South East
+167,North Hertfordshire,133214,,Hertfordshire,East of England
+168,Teignbridge,132844,,Devon,South West
+169,Eastleigh,131819,Borough,Hampshire,South East
+170,Epping Forest,131137,,Essex,East of England
+171,Tonbridge and Malling,130508,Borough,Kent,South East
+172,Exeter,130428,City (TI),Devon,South West
+173,Newcastle-under-Lyme,129490,Borough,Staffordshire,West Midlands
+174,Broadland,129464,,Norfolk,East of England
+175,Gloucester,129285,City (1541),Gloucestershire,South West
+176,Ashford,129281,Borough,Kent,South East
+177,Nuneaton and Bedworth,128902,Borough,Warwickshire,West Midlands
+178,Halton,128432,"Unitary authority, Borough",Cheshire,North West
+179,Stratford-on-Avon,127580,,Warwickshire,West Midlands
+180,Wychavon,127340,,Worcestershire,West Midlands
+181,Ashfield,127151,,Nottinghamshire,East Midlands
+182,Amber Valley,126678,Borough,Derbyshire,East Midlands
+183,Havant,125813,Borough,Hampshire,South East
+184,Cambridge,125758,City (1951),Cambridgeshire,East of England
+185,Waverley,125610,Borough,Surrey,South East
+186,Test Valley,125169,Borough,Hampshire,South East
+187,Winchester,124295,City (TI),Hampshire,South East
+188,Sedgemoor,122791,,Somerset,South West
+189,Welwyn Hatfield,122746,,Hertfordshire,East of England
+190,Bracknell Forest,121676,"Unitary authority, Borough",Berkshire,South East
+191,Newark and Sherwood,121566,,Nottinghamshire,East Midlands
+192,Chichester,120750,Non-metropolitan district,West Sussex,South East
+193,East Hampshire,120681,,Hampshire,South East
+194,Sevenoaks,120293,,Kent,South East
+195,Stroud,119019,,Gloucestershire,South West
+196,East Staffordshire,118574,Borough,Staffordshire,West Midlands
+197,Tunbridge Wells,118054,Borough,Kent,South East
+198,Gedling,117786,Borough,Nottinghamshire,East Midlands
+199,Rushcliffe,117671,Borough,Nottinghamshire,East Midlands
+200,Cheltenham,117090,Borough,Gloucestershire,South West
+201,Dover,116969,,Kent,South East
+202,Bassetlaw,116839,,Nottinghamshire,East Midlands
+203,Chorley,116821,Borough,Lancashire,North West
+204,Fareham,116339,Borough,Hampshire,South East
+205,North Kesteven,115985,,Lincolnshire,East Midlands
+206,Erewash,115490,Borough,Derbyshire,East Midlands
+207,Mendip,114881,,Somerset,South West
+208,West Lancashire,113949,,Lancashire,North West
+209,Broxtowe,113272,Borough,Nottinghamshire,East Midlands
+210,Folkestone and Hythe,112578,,Kent,South East
+211,Crawley,112448,Borough,West Sussex,South East
+212,Hinckley and Bosworth,112423,Borough,Leicestershire,East Midlands
+213,South Staffordshire,112126,,Staffordshire,West Midlands
+214,Wyre,111223,Borough,Lancashire,North West
+215,South Ribble,110527,Borough,Lancashire,North West
+216,Worthing,110025,Borough,West Sussex,South East
+217,West Oxfordshire,109800,,Oxfordshire,South East
+218,Dartford,109709,Borough,Kent,South East
+219,Mansfield,108841,,Nottinghamshire,East Midlands
+220,Scarborough,108736,Borough,North Yorkshire,Yorkshire and the Humber
+221,Carlisle,108387,City (TI),Cumbria,North West
+222,Rugby,107194,Borough,Warwickshire,West Midlands
+223,Darlington,106566,"Unitary authority, Borough",County Durham,North East
+224,Gravesham,106385,Borough,Kent,South East
+225,Chesterfield,104628,Borough,Derbyshire,East Midlands
+226,North Norfolk,104552,,Norfolk,East of England
+227,South Lakeland,104532,,Cumbria,North West
+228,South Derbyshire,104493,,Derbyshire,East Midlands
+229,Hertsmere,104205,Borough,Hertfordshire,East of England
+230,Lichfield,103965,,Staffordshire,West Midlands
+231,Eastbourne,103160,Borough,East Sussex,South East
+232,Lewes,102744,,East Sussex,South East
+233,Mid Suffolk,102493,,Suffolk,East of England
+234,North West Leicestershire,102126,,Leicestershire,East Midlands
+235,Worcester,101891,City (1189),Worcestershire,West Midlands
+236,Fenland,101491,,Cambridgeshire,East of England
+237,Kettering,101266,Borough,Northamptonshire,East Midlands
+238,Woking,101167,Borough,Surrey,South East
+239,North East Derbyshire,101125,,Derbyshire,East Midlands
+240,Wyre Forest,101062,,Worcestershire,West Midlands
+241,Blaby,100421,,Leicestershire,East Midlands
+242,Cannock Chase,100109,,Staffordshire,West Midlands
+243,Great Yarmouth,99370,Borough,Norfolk,East of England
+244,Spelthorne,99334,Borough,Surrey,South East
+245,Lincoln,99039,City (TI),Lincolnshire,East Midlands
+246,Bromsgrove,96876,,Worcestershire,West Midlands
+247,Staffordshire Moorlands,98397,,Staffordshire,West Midlands
+248,Allerdale,97527,Borough,Cumbria,North West
+249,Broxbourne,96800,Borough,Hertfordshire,East of England
+250,Watford,96767,Borough,Hertfordshire,East of England
+251,Hart,96293,,Hampshire,South East
+252,North Devon,96110,,Devon,South West
+254,Rother,95656,,East Sussex,South East
+255,Rushmoor,95142,Borough,Hampshire,South East
+256,West Lindsey,94869,,Lincolnshire,East Midlands
+257,South Holland,93980,,Lincolnshire,East Midlands
+258,East Northamptonshire,93906,,Northamptonshire,East Midlands
+259,Hartlepool,93242,"Unitary authority, Borough",County Durham,North East
+260,Three Rivers,93045,,Hertfordshire,East of England
+261,Hastings,92855,Borough,East Sussex,South East
+262,Tewkesbury,92599,Borough,Gloucestershire,South West
+263,South Northamptonshire,92515,,Northamptonshire,East Midlands
+264,Harborough,92499,,Leicestershire,East Midlands
+265,High Peak,92221,Borough,Derbyshire,East Midlands
+266,Pendle,91405,Borough,Lancashire,North West
+267,Babergh,91401,,Suffolk,East of England
+268,Hambleton,91134,,North Yorkshire,Yorkshire and the Humber
+269,Castle Point,90070,Borough,Essex,East of England
+270,East Cambridgeshire,89362,,Cambridgeshire,East of England
+271,Uttlesford,89179,,Essex,East of England
+272,Selby,89106,,North Yorkshire,Yorkshire and the Humber
+273,Cotswold,89022,,Gloucestershire,South West
+274,Surrey Heath,88874,Borough,Surrey,South East
+275,Burnley,88527,Borough,Lancashire,North West
+276,Runnymede,88000,Borough,Surrey,South East
+277,Stevenage,87754,Borough,Hertfordshire,East of England
+278,Tandridge,87496,,Surrey,South East
+279,Mole Valley,87253,,Surrey,South East
+280,Rochford,86981,,Essex,East of England
+281,Harlow,86594,,Essex,East of England
+282,Forest of Dean,86543,,Gloucestershire,South West
+283,Gosport,85283,Borough,Hampshire,South East
+284,Redditch,84989,Borough,Worcestershire,West Midlands
+285,South Hams,86221,,Devon,South West
+286,Daventry,84484,,Northamptonshire,East Midlands
+286,Mid Devon,84484,,Devon,South West
+288,Hyndburn,80815,Borough,Lancashire,North West
+289,Epsom and Ewell,79928,Borough,Surrey,South East
+290,Fylde,79770,Borough,Lancashire,North West
+291,Bolsover,79530,,Derbyshire,East Midlands
+292,Wellingborough,79478,Borough,Northamptonshire,East Midlands
+293,Malvern Hills,78113,,Worcestershire,West Midlands
+294,Tamworth,76678,Borough,Staffordshire,West Midlands
+295,Brentwood,76550,Borough,Essex,East of England
+296,Derbyshire Dales,71977,,Derbyshire,East Midlands
+297,Rossendale,70895,Borough,Lancashire,North West
+298,Corby,70827,Borough,Northamptonshire,East Midlands
+300,Boston,69366,Borough,Lincolnshire,East Midlands
+301,Copeland,68424,Borough,Cumbria,North West
+302,Torridge,68143,,Devon,South West
+303,Barrow-in-Furness,67137,Borough,Cumbria,North West
+304,North Warwickshire,64850,Borough,Warwickshire,West Midlands
+305,Maldon,64425,,Essex,East of England
+306,Adur,63869,,West Sussex,South East
+307,Ribble Valley,60057,Borough,Lancashire,North West
+308,Oadby and Wigston,57056,Borough,Leicestershire,East Midlands
+309,Craven,56832,,North Yorkshire,Yorkshire and the Humber
+310,West Devon,55528,Borough,Devon,South West
+311,Ryedale,54920,,North Yorkshire,Yorkshire and the Humber
+312,Richmondshire,53244,,North Yorkshire,Yorkshire and the Humber
+313,Eden,52881,,Cumbria,North West
+314,Melton,51100,Borough,Leicestershire,East Midlands
+315,Rutland,39697,Unitary authority,Rutland,East Midlands
+316,City of London,8706,"City (TI), sui generis",City of London,London
+317,Isles of Scilly,2242,sui generis,Cornwall,South West
