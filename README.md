@@ -52,7 +52,8 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 **6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
 
-- [x] Get Data: household estimate, supermarket locations
+- [x] Get Data: household estimate, supermarket locations: 
+     [House Data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/datasets/householdsbytypeofhouseholdandfamilyregionsofenglandandukconstituentcountries), [Shop Data](https://www.geolytix.co.uk/)
 - [ ] Create UK network based on assumed interactions
 - [ ] Apply EXPEXT-MAX algorithm
 
