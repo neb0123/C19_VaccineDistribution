@@ -9,7 +9,7 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 - [x] Deaths per region
 [https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/]
 - [x] Population Densities
-[https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density, https://en.wikipedia.org/wiki/Regions_of_England]
+[https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density]
 - [ ] Vaccine distribution centre locations
 - [ ] Vaccine amount available & timings
 
@@ -21,12 +21,12 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 **3.** Create notebook:
 
 - [x] Import data
-- [ ] Merge data:
+- [x] Merge data:
 
      - [x] Infected
      - [x] Deaths
      - [x] Population Density
-     - [ ] Population
+     - [x] Population
       
 - [x] Create UK visual
 - [x] Get hospital regions
@@ -37,21 +37,18 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 *Idea*: Create the Voronoi diagram with hospitals as seeds. Then spread number of deaths out evenly in this space.
 
-- [ ] Create Voronoi diagram
-- [ ] Uniformly/randomly distribute deaths in each region
-- [ ] Create coloured density plot
+- [x] Create Voronoi diagram
+- [x] Create coloured density plot based on uniform deaths in each region
 
 **5.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
 
-- [ ] Create regional metrics:
+- [x] Create regional metrics:
 
   - [x] Mortality of Infected per Region
-  - [ ] Morbidity
-  - [x] Population Morbidity
-  - [x] Population Mortality
+  - [x] Morbidity
   
 - [ ] Test various clustering methods and metrics
-- [ ] Plot clusters in the 6 2D planes
+- [ ] Plot clusters in the 10 2D planes (5 choose 2, for each of: Mortality, Morbidity, Density, Infected, Deaths)
 
 **6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
 
