@@ -52,4 +52,8 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 **6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
 
+- [x] Get Data: household estimate, supermarket locations
+- [ ] Create UK network based on assumed interactions
+- [ ] Apply EXPEXT-MAX algorithm
+
 **7.** Test out Integer Programming for location/cost assignment [Paper1](/Papers/efficient_Vaccine_Distribution_Planning_using_IoT_TACTiCS_2015.pdf) [Paper2](2015MCM_paper.pdf)
