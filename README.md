@@ -48,7 +48,7 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
   - [x] Morbidity
   
 - [ ] Test various clustering methods and metrics
-- [ ] Plot clusters in the 10 2D planes (5 choose 2, for each of: Mortality, Morbidity, Density, Infected, Deaths)
+- [ ] Plot metrics on map to determine why clusters chosen
 
 **6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
 
