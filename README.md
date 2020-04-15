@@ -47,7 +47,7 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
   - [x] Mortality of Infected per Region
   - [x] Morbidity
   
-- [ ] Test various clustering methods and metrics
+- [x] Test various clustering methods and metrics
 - [ ] Plot metrics on map to determine why clusters chosen
 
 **6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
