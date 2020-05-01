@@ -4,12 +4,10 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 ## Plan:
 **1.** Data reconnaissance:
 
-- [x] Infected per region
-[https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases]
-- [x] Deaths per region
-[https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-daily-deaths/]
-- [x] Population Densities
-[https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density]
+- [x] Infected per region: [Gov link](https://coronavirus.data.gov.uk/#regions)
+- [x] Deaths per region:
+[ONS link](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/datasets/deathregistrationsandoccurrencesbylocalauthorityandhealthboard)
+- [x] Population Densities: [Wikipedia link](https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density)
 - [ ] Vaccine distribution centre locations
 - [ ] Vaccine amount available & timings
 
@@ -20,13 +18,13 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 **3.** Create notebook:
 
-- [x] Import data
-- [x] Merge data:
+- [ ] Import data
+- [ ] Merge data:
 
-     - [x] Infected
-     - [x] Deaths
-     - [x] Population Density
-     - [x] Population
+     - [ ] Infected
+     - [ ] Deaths
+     - [ ] Population Density
+     - [ ] Population
       
 - [x] Create UK visual
 - [x] Get hospital regions
@@ -42,12 +40,12 @@ Optimising a vaccine distribution plan for the UK in response to the Covid-19 vi
 
 **5.** Cluster regions based on regional metrics [Paper](/Papers/shsconf_cyhf2015_01004.pdf)
 
-- [x] Create regional metrics:
+- [ ] Create regional metrics:
 
-  - [x] Mortality of Infected per Region
-  - [x] Morbidity
+  - [ ] Mortality of Infected per Region
+  - [ ] Morbidity
   
-- [x] Test various clustering methods and metrics
+- [ ] Test various clustering methods and metrics
 - [ ] Plot metrics on map to determine why clusters chosen
 
 **6.** Test out distribution algorithms [Paper](/Papers/26618292662088.pdf)
